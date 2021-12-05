@@ -1,8 +1,11 @@
 # javascript-personal-website
+
+![foto-gif](https://gokhankutbay.com/assets/img/works/gorsel6.png)
+
 ## Easy and useful javascript website.
 ### Please share to support me. Thank you in advance. Use it on good days.
 
-[www.gokhankutbay.ml](https://www.gokhankutbay.ml/)
+[www.gokhankutbay.com](https://www.gokhankutbay.com/)
 
 ### Follow me;
 
